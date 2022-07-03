@@ -8,7 +8,7 @@ Minimum Viable Product (Ni-Ting Chiou)
 
 
 
-![alt text]([https://github.com/chiouNT/Classification/blob/main/Images/table.png]
+![alt text](https://github.com/chiouNT/Classification/blob/main/Images/table.png)
 
 
-![alt text]([https://github.com/chiouNT/Classification/blob/main/Images/table.png]
+![alt text](https://github.com/chiouNT/Classification/blob/main/Images/table.png)
