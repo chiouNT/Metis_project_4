@@ -1,10 +1,10 @@
 Minimum Viable Product (Ni-Ting Chiou)
 
-##  MTA turnstile data analysis
-* **Goal:** The analysis seeks to charaterize the ridership changes of MTA stations before and after the COVID-19 outbreak. This data will be informative for the street vendors to reopening their business.
-* **Process:** Data exploration to reach this conclusion includes the aggregation daily entry data at the MTA station level on March. The data is then compared between 2019 and 2022.
-* **Preliminary visualization:** The top figure depicts the ratio of the entries on March between 2022 and 2019. It showed that most stations have ~37% reduction in the ridership. The top right figure shows that some of stations that have less total entries are less reduced in the ridership in 2022. The bottom left and right figures illustrate the stations with the highest reduction (>70%) and the lowest reduction (>50%) in the ridership, respectively.
-* **Preliminary conclusion:** It suggests that the street venders at the stations, such as Wall st station, may need to relocate to other stations or change their business strategies as the ridership in 2022 is only ~10% of that in 2019.
+##  Identifying mis-classified ClinVar variants
+* **Goal:** Many human genome variants have conflicting classification in the ClinVar database. Predicting whether a variant is likely to be classified into the conflicting class will help biologist to design the strategies for improving their annotations.
+* **Process:** The dataset was obtained via Kaggle and is comprised of over 60K observations and 45 features. 8 promising features (3 of them are numeric and 5 of them are categorical features) were selected. For these features, the categorical features were converted into dummy variables and numeric features were standardized for modeling.
+* **Preliminary conclusion:** The preliminary classification analysis is done with Logistic Regression and Random Forest models. The ROC-AUC curves show that a tree-based model may be better for identifying mis-classified ClinVar variant.
+* **From here:** More EDA will be done for feature selection and engineering to improve model scoring metrics.
 
 
 
