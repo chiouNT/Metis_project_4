@@ -16,19 +16,26 @@ The data (ClinvarClassification.csv) is downloaded from Kaggle. The data has 651
 
 ## Algorithms
 
-*Feature Engineering*
+* Feature Engineering
 1. Bucketing the minority categorical variants under one feature into a single category.
 2.	Converting categorical features into the dummy variables.
 3.	Combing the dummies and numerical features 
 4.	Standardizing the final data
 
-*Models* <br> 
+* Models
 Logistic regression, k-nearest neighbors, random forest classifiers and XGBoost Classifier were used before settling on XGBoost Classifier as the model with best scores.
 
-* Final Model Evaluation
+*Final Model Evaluation* <br>
+* Accuracy 0.76
+* F1 0.19
+* precision 0.66
+* recall 0.11
 
-*Unit test* <br>
-* Test the function for loading the stock database from API
+*Holdout* <br>
+* Accuracy 0.75
+* F1 0.18
+* precision 0.59
+* recall 0.11
 
 ## Tools
 *
