@@ -38,9 +38,8 @@ Logistic regression, k-nearest neighbors, random forest classifiers and XGBoost 
 * recall 0.11
 
 ## Tools
-*
 *	Pandas, Numby, Matplotlib and Seaborn: Data clean, exploration and visualization
-*	Sci-learn learn: predictive data analysis
+*	Sci-learn learn: predictive data analysis and evaluation
 
 
 ## Communication
