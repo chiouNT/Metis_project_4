@@ -22,7 +22,7 @@ The data (ClinvarClassification.csv) is downloaded from Kaggle. The data has 651
 3.	Combing the dummies and numerical features 
 4.	Standardizing the final data
 
-* Models
+* Models <br>
 Logistic regression, k-nearest neighbors, random forest classifiers and XGBoost Classifier were used before settling on XGBoost Classifier as the model with best scores.
 
 *Final Model Evaluation* <br>
