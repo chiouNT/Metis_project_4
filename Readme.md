@@ -43,7 +43,7 @@ Logistic regression, k-nearest neighbors, random forest classifiers and XGBoost 
 
 
 ## Communication
-* The analysis result showed that the features of variant frequency, gene name and molecular consequences are more important for predicting whether a variant will have conflicting classification (see figure bellow)
+* The analysis result showed that the features of variant frequency, gene name (SYMBOL) and molecular consequences (MC) are more important for predicting whether a variant will have conflicting classification (see figure bellow)
 
 ![alt text](https://github.com/chiouNT/Classification/blob/main/Images/importance.png)
 
