@@ -1,5 +1,3 @@
-write_up (Ni-Ting Chiou)
-
 # Classification models to predict whether a variant will have conflicting clinical classifications.
 
 ## Abstract
