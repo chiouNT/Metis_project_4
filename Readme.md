@@ -1,6 +1,6 @@
 write_up (Ni-Ting Chiou)
 
-# Classification project: Genetic Variant Classification
+# Classification models to predict the conflicting classification of the genetic variants 
 
 ## Abstract
 
